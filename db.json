@@ -1,0 +1,25 @@
+{
+  "dogs": [
+    {
+      "id": "1",
+      "name": "Toto",
+      "breed": "Shi Tzu",
+      "age": "13",
+      "owner": "Melissa"
+    },
+    {
+      "id": "2",
+      "name": "Wolf",
+      "breed": "Huskey",
+      "age": "11",
+      "owner": "Jason"
+    },
+    {
+      "id": "f78a",
+      "name": "Clifford",
+      "breed": "Big Red Dog",
+      "age": "110000101",
+      "owner": "The Man in the Hat"
+    }
+  ]
+}
